@@ -19,7 +19,7 @@ export default function Disclaimer() {
             Important Notice
           </h3>
           <p className="text-sm" style={{ color: '#111827' }}>
-            This page presents producer-declared information; it is not certification or verification.
+            This page presents producer-declared information. It is not certification or verification.
           </p>
         </div>
       </div>
